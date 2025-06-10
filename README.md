@@ -1,15 +1,12 @@
-# E-Commerce website html css
+# QuickBills
 
-in this repository you will see an html css template for a cool designed e-commerce website.
+A web application for generating invoices, built using React, provides an efficient and user-friendly solution for businesses to create and manage invoices. With its intuitive interface, users can easily input customer information, add items and services, and calculate totals with automatic tax and discount calculations. The app allows users to print invoices directly from the app, streamlining the invoicing process.
 
-## :heavy_check_mark: useful for who:
+### Live Demo
+https://quickbills.vercel.app/
 
--   wants to practice your html css skills
+### Screenshots
+![image](https://github.com/fasilofficial/quickbills/assets/83868023/469cc87a-48f7-4552-86ac-3a4da5fa55be)
 
-## :heavy_check_mark: Authors
+![image](https://github.com/fasilofficial/quickbills/assets/83868023/760286d4-c5f7-4e1e-aad9-37f8cde495c5)
 
--   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
-
-## :heavy_check_mark: License
-
-free for everyone to use in any good purposes :heart:
